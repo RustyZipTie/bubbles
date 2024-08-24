@@ -1,0 +1,22 @@
+{
+    "name": "bubbles",
+    "version": "1.0.0",
+    "description": "the common-sense web framework",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RustyZipTie/bubbles.git"
+    },
+    "author": "Kai Grignon",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/RustyZipTie/bubbles/issues"
+    },
+    "homepage": "https://github.com/RustyZipTie/bubbles#readme",
+    "dependencies": {
+        "objective-rendering": "^2.1.0"
+    }
+}
